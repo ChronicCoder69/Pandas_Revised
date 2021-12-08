@@ -6,7 +6,7 @@ Here we will be doing:
 <li> Data Cleaning </li>
 <li> Data Analysis </li>
 <li> Label Encoding </li>
-<li> Normalization </li>
+<li> Normalization (using Min Max Scaler) </li>
 
 <p>
   
