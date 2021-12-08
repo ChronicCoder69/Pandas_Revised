@@ -2,11 +2,11 @@
 All the important Panda functions and modules used in Data Science for Data Cleaning, analysis and data visualization in one single ipynb file.
 
 Here we will be doing:
-. Revision of Basic panda modules
-. Data Cleaning
-. Data Analysis
-. Label Encoding
-. Normalization
+<li> Revision of Basic panda modules </li>
+<li> Data Cleaning </li>
+<li> Data Analysis </li>
+<li> Label Encoding </li>
+<li> Normalization </li>
 
 We will be doing normalization and Label Encoding on our dataset in panda, for this the dataset That I have chosen is way too Large so , The file "pandas package" is for general understanding, whereas for Label Encoding and Normalization, I have uploaded another ipynb file called "Label_Encoding", so for further, do refer this particular file.
 
